@@ -42,4 +42,4 @@ RiV = RiV + iV<br/>
 or, 950 + 50<br/>
 or, 1000
 </i>
-<p><br/> Here You go it's your previous <i> V </i>( <i>Value </i>)</p>
+<p><br/> Here You go it's your previous <i> V </i>( <i>Value </i>)</p><br/>
