@@ -5,17 +5,17 @@ With the help of <span title="Full Form: Percentage Value Change System">PVCS</s
 
 <h2><b>Read Me</b>*</h2>
 
-<b>We will:</b><br/>
-use (<i> V </i>) to denote (<i> Value </i>),<br/>
-use (<i> i </i>) to denote (<i> Percentage </i>),<br/>
-use (<i> Ri </i>) to denote (<i> Reverse Percentage </i>),<br/>
-use (<i> iV </i>) to denote (<i> Percentage Value </i>),<br/>
-use (<i> RiV </i>) to denote (<i> Reverse Percentage Value </i>).
+<b>We will use:</b><br/>
+(<i> V </i>) to denote (<i> Value </i>),<br/>
+(<i> i </i>) to denote (<i> Percentage </i>),<br/>
+(<i> Ri </i>) to denote (<i> Reverse Percentage </i>),<br/>
+(<i> iV </i>) to denote (<i> Percentage Value </i>),<br/>
+(<i> RiV </i>) to denote (<i> Reverse Percentage Value </i>).
 
 <h2>We Know,</h2>
 <i> V </i> = 1000 (৳)<br/>
 <i> i </i> = 5 (%)<br/>
-<i> Ri </i> = 95 [ <i>100 - i </i> ]<br/>
+<i> Ri </i> = 95 [ <i>100 - i </i> (5) ]<br/>
 <i> iV </i> = (?) [<i> ans: </i> 50 (৳) ]<br/>
 <i> RiV </i> = (?) [<i> ans: </i> 950 (৳) ]<br/>
 
@@ -38,7 +38,7 @@ or, 950
 
 <h2>Formula for <i> V </i></h2>
 <i>
-RiV = RiV + iV<br/>
+V = RiV + iV<br/>
 or, 950 + 50<br/>
 or, 1000
 </i>
