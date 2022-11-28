@@ -12,7 +12,7 @@ use (<i> Ri </i>) to denote (<i> Reverse Percentage </i>),<br/>
 use (<i> iV </i>) to denote (<i> Percentage Value </i>),<br/>
 use (<i> RiV </i>) to denote (<i> Reverse Percentage Value </i>).
 
-<h2>Now Start:</h2>
+<h2>We Know,</h2>
 <i> V </i> = 1000 (৳)<br/>
 <i> i </i> = 5 (%)<br/>
 <i> Ri </i> = 95 [ <i>100 - i </i> ]<br/>
