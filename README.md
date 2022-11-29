@@ -10,7 +10,8 @@ With the help of <span title="Full Form: Percentage Value Change System">PVCS</s
 (<i> i </i>) to denote (<i> Percentage </i>),<br/>
 (<i> Ri </i>) to denote (<i> Reverse Percentage </i>),<br/>
 (<i> iV </i>) to denote (<i> Percentage Value </i>),<br/>
-(<i> RiV </i>) to denote (<i> Reverse Percentage Value </i>).
+(<i> RiV </i>) to denote (<i> Reverse Percentage Value </i>),<br/>
+(<i> PiV </i>) to denote (<i> Previous Percentage Value </i>).
 
 <h2>We Know,</h2>
 <i> V </i> = 1000 (৳)<br/>
@@ -35,6 +36,15 @@ or, 4750 ÷ 5<br/>
 or, 950
 </i>
 <p><br/> Now You Got Your <i> RiV </i>(<i> Reverse Percentage Value </i>)</p>
+
+<h2>Formula for <i> PiV </i></h2>
+<i>
+RiV = (RiV x i) ÷ Ri<br/>
+or, (950 x 5) ÷ 95<br/>
+or, 4750 ÷ 95<br/>
+or, 50
+</i>
+<p><br/> Now You Got Your <i> PiV </i>(<i> Previous Percentage Value </i>)</p>
 
 <h2>Formula for <i> V </i></h2>
 <i>
